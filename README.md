@@ -1,0 +1,1 @@
+# Using-Learning-Vector-Quantization-LVQ-to-classify-Handwritten-Math-Symbols
